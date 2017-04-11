@@ -1,0 +1,3 @@
+package: blue
+import:
+- package: gopkg.in/yaml.v2
